@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nihongai.github.io/pixverse-vs-chatgpt-liuguang/sitemap.xml
