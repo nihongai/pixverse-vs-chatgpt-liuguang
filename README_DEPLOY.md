@@ -14,4 +14,4 @@ PixVerse vs ChatGPT / 流光AI 特色 / AI 聚合对比 / PixVerse 优势
 
 模板：`site_v1.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-pixverse-vs-chatgpt&utm_medium=referral&utm_campaign=pixverse-vs-chatgpt`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
